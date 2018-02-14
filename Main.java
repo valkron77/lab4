@@ -9,7 +9,7 @@ public class Main {
         int countDown;
         long countDeci = 0;
         long finalCount = 0;
-        int hexaPower = 0;
+        int hexaPower = 0;                                      //welcome to github
 
         System.out.print("Enter a hexadecimal number: ");
         numHexa = scnr.next();
